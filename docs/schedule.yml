@@ -702,7 +702,7 @@
        title: "Homework Due"
        color: red
        url:
-        - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
+        - TV Browser: https://github.com/ga-wdi-exercises/tv-browser
         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
