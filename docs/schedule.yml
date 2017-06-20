@@ -689,7 +689,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Angular: Resources"
-       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       url: "https://git.generalassemb.ly/ga-wdi-lessons/angular-resources"
        lead: "Adrian"
        support: "Nayana"
     - "2:30PM - 5:00PM":
