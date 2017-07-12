@@ -929,7 +929,7 @@
        support: ""
     - "10:00AM - 12:30AM":
        title: "Lab: React Router"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/react-router-lab/"
        lead: "James"
        support: ""
     - "2:30PM - 5:00 PM":
@@ -938,6 +938,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Lab Due"
+       color: red
+       url:
+        - React Router Lab: https://github.com/ga-wdi-exercises/react-router-lab/
     - "9:00AM - 10:00AM":
        title: "Checkpoint"
        url: ""
