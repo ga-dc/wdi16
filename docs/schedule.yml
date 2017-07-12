@@ -932,9 +932,9 @@
        url: "https://github.com/ga-wdi-exercises/react-router-lab/"
        lead: "James"
        support: ""
-    - "2:30PM - 5:00 PM":
-       title: "Outcomes: Cracking the Technical Interview"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
+    - "2:30PM - 5:00PM":
+       title: "Outcomes: Ask The Experts Panel"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: ""
   - day:
@@ -988,9 +988,9 @@
   - day:
     - "9:00AM - 2:30PM":
        title: "Project 4"
-    - "2:30PM - 5:00PM":
-       title: "Outcomes: Ask The Experts Panel"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
+    - "2:30PM - 5:00 PM":
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
        support: ""
   - day:
