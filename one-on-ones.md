@@ -4,11 +4,10 @@ Two instructors will be available every Monday, Tuesday and Wednesday between 1:
 
 Students may only sign up for one 1:1 meeting at a time. After that meeting takes place, you are welcome to sign up for another one.
 
-#### Sign-Up Links
+#### Slack Specific Instructors
 
-- [Nayana (Monday)](https://calendar.google.com/calendar/selfsched?sstoken=UUlnakdPUlJhcWJQfGRlZmF1bHR8ZWI5YmQ4ZTdjMjYzMDJiOThlZmJlNTc5Yzc4NWQ3ZjY)
-- [Adrian (Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUN2RE1UVmZqZGJafGRlZmF1bHR8YTkzYWIyOWE3OTZhY2JjMDU1NTM1NGNiYzAzODMxNzA)
-- [James (Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUhNWVBocGxkazdDfGRlZmF1bHR8NjE1YmE1ODUyNGNkNTgwMTg5OGE5MGUxN2MzOTU5MzU)
+Refer the schedule to see who is on lab support:
+[Class calendar](https://git.generalassemb.ly/pages/DC-WDI/WDI18/#2017-07-27)
 
 They're a safe space to talk about literally anything. One-on-Ones might include:
 - Code review
